@@ -2,7 +2,7 @@
 
 Hoy en día, la mayoría de viviendas disponen de una **"Red Inalámbrica"**. El problema es que hay muchos casos, en la que estás no están o configuradas correctamente o bien situadas. Esto puedo hacer que no estemos navegando a la velocidad que tenemos contratado o que no nos llegue a zonas de nuestra casa por culpa de interferencias.
 
-## Que no te robe el WiFi el vecino
+## Que no te robe WiFi el vecino
 
 La configuración es lo primero que tenemos que tener bien, ya que si no tenemos una buena seguridad puede hacer que se conecten a nuestra Red Inalámbrica ya que si no la tenemos configurado correctamente puede ser una causa de que no nos vaya correctamente, ya sea un [Punto de Acceso](https://villalba189.github.io/Conf.PA/Conf_PuntoDeAcceso2), un [Router Neutro](https://nswhuei.github.io/reto3/ActividadRQ5.2.html) o un [Router por Cable Coaxial](https://nswhuei.github.io/reto3/ActividadRQ5.3.html).
 
